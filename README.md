@@ -207,4 +207,4 @@ This repository serves as the official landing page for Myst. The software is di
 **Get the most recent version of Myst today!**
 
 ---
-**Last updated:** 2026-11-13 22:27:26 UTC
+**Last updated:** 2026-11-14 02:59:38 UTC
